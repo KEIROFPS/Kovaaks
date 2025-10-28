@@ -1,4 +1,4 @@
-# My kovaaks themes, sounds, crosshairs and palette!
+# kovaaks themes, sounds, crosshairs and palette!
 
 Place Palette.ini into "C:\Users\YOURNAME\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor"
 
