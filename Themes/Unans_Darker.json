@@ -1,0 +1,52 @@
+{
+	"themeName": "Unans Darker",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 1,
+	"wallMetallic": 0,
+	"wallFullBright": 0.80000001192092896,
+	"wallTint":
+	{
+		"x": 0.19461782276630402,
+		"y": 0.19461782276630402,
+		"z": 0.19461782276630402
+	},
+	"floorMaterial": "GRID 16",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 0.87999999523162842,
+	"floorTint":
+	{
+		"x": 0.19461782276630402,
+		"y": 0.19461782276630402,
+		"z": 0.19461782276630402
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 1,
+		"z": 0
+	},
+	"skyPresetId": 6,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 188,
+		"g": 188,
+		"r": 188,
+		"a": 255
+	}
+}

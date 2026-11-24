@@ -1,0 +1,110 @@
+{
+	"themeName": "0check the statistacs",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.80000001192092896,
+	"wallMetallic": 0,
+	"wallFullBright": 0.40000000596046448,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "PURE COLOR",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.12743768095970154,
+		"y": 0.12743768095970154,
+		"z": 0.12743768095970154
+	},
+	"floorTextureScale": 1,
+	"ceilingMaterial": "PURE COLOR",
+	"ceilingRoughness": 1,
+	"ceilingMetallic": 0,
+	"ceilingFullBright": 0.40000000596046448,
+	"ceilingTint":
+	{
+		"x": 0.57758045196533203,
+		"y": 0.57758045196533203,
+		"z": 0.67244315147399902
+	},
+	"ceilingTextureScale": 1,
+	"rampMaterial": "PURE COLOR",
+	"rampRoughness": 1,
+	"rampMetallic": 0,
+	"rampFullBright": 1,
+	"rampTint":
+	{
+		"x": 0.12743768095970154,
+		"y": 0.12743768095970154,
+		"z": 0.12743768095970154
+	},
+	"rampTextureScale": 1,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 1,
+	"teamGlowUpBody": 1,
+	"enemyGlowUpHead": 1,
+	"enemyGlowUpBody": 1,
+	"enemyGlowUpHeadOnHit": 1,
+	"enemyGlowUpBodyOnHit": 1,
+	"enemyGlowUpHeadOnLookAt": 1,
+	"enemyGlowUpBodyOnLookAt": 1,
+	"skyPresetId": 8,
+	"cloudCoverId": 4,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 156,
+		"g": 150,
+		"r": 150,
+		"a": 255
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"themeName": "Grayy",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 1,
+	"wallMetallic": 0,
+	"wallFullBright": 0.80000001192092896,
+	"wallTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"floorMaterial": "WHITE WOOD BOARD",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 0.30000001192092896,
+	"floorTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.62999999523162842,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.64999997615814209,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 7,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 29,
+		"g": 29,
+		"r": 244,
+		"a": 255
+	}
+}

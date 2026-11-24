@@ -1,0 +1,52 @@
+{
+	"themeName": "good clicking theme",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.80000001192092896,
+	"wallMetallic": 0.69999998807907104,
+	"wallFullBright": 0.60000002384185791,
+	"wallTint":
+	{
+		"x": 0.32777810096740723,
+		"y": 0.33716362714767456,
+		"z": 0.3762621283531189
+	},
+	"floorMaterial": "PURE COLOR",
+	"floorRoughness": 0.80000001192092896,
+	"floorMetallic": 0.69999998807907104,
+	"floorFullBright": 0.60000002384185791,
+	"floorTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.80000001192092896,
+	"enemyColorMetallic": 0.69999998807907104,
+	"enemyColorFullBright": 0.60000002384185791,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 1,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 234,
+		"g": 217,
+		"r": 153,
+		"a": 255
+	}
+}

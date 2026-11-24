@@ -1,0 +1,88 @@
+{
+	"themeName": "Lorys Fusah mix",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.60000002384185791,
+	"wallMetallic": 1,
+	"wallFullBright": 0.34999999403953552,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "BRICK CLAY NEW",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0.89999997615814209,
+	"floorTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorTextureScale": 1,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 0,
+	"teamGlowUpBody": 0,
+	"enemyGlowUpHead": 0,
+	"enemyGlowUpBody": 0,
+	"enemyGlowUpHeadOnHit": 0,
+	"enemyGlowUpBodyOnHit": 0,
+	"enemyGlowUpHeadOnLookAt": 0,
+	"enemyGlowUpBodyOnLookAt": 0,
+	"skyPresetId": 2,
+	"cloudCoverId": 3,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 234,
+		"g": 217,
+		"r": 153,
+		"a": 255
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"themeName": "Hasin White Wood Board",
+	"wallMaterial": "WHITE WOOD BOARD",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "WHITE WOOD BOARD",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0.5,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 0.20000000298023224,
+	"enemyHeadColor":
+	{
+		"x": 0.17173300683498383,
+		"y": 0,
+		"z": 0.36800000071525574
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.17173300683498383,
+		"y": 0,
+		"z": 0.36800000071525574
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 0,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

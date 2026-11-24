@@ -1,0 +1,52 @@
+{
+	"themeName": "Hasin Static",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 0.80000001192092896,
+	"wallTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"floorMaterial": "PURE COLOR",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0.80000001192092896,
+	"floorTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 0,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 127,
+		"g": 127,
+		"r": 127,
+		"a": 255
+	}
+}

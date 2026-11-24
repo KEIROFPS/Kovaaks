@@ -1,0 +1,52 @@
+{
+	"themeName": "David Classic",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 1,
+	"wallMetallic": 0.68000000715255737,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "WOOD FLOOR WALNUT",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 0.61000001430511475,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.36000001430511475,
+	"enemyColorMetallic": 0.12999999523162842,
+	"enemyColorFullBright": 0.5899999737739563,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 127,
+		"g": 127,
+		"r": 127,
+		"a": 255
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"themeName": "mbmaimbeastlooking",
+	"wallMaterial": "MARBLE POLISHED",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.45641103386878967,
+		"y": 0.45641103386878967,
+		"z": 0.45641103386878967
+	},
+	"floorMaterial": "WHITE WOOD BOARD",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.45641103386878967,
+		"y": 0.45641103386878967,
+		"z": 0.45641103386878967
+	}
+}

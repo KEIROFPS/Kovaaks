@@ -1,0 +1,52 @@
+{
+	"themeName": "hontrbright",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.62000000476837158,
+	"wallMetallic": 0.98000001907348633,
+	"wallFullBright": 0.98000001907348633,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "WOOD FLOOR WALNUT",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.75,
+	"enemyColorMetallic": 0.5,
+	"enemyColorFullBright": 0.25,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.17100000381469727,
+		"z": 0.17100000381469727
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

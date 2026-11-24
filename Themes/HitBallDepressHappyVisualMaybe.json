@@ -1,0 +1,52 @@
+{
+	"themeName": "HitBallDepressHappyVisualMaybe",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.56000000238418579,
+	"wallMetallic": 0.87000000476837158,
+	"wallFullBright": 0.97000002861022949,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "BRICK CLAY BEVELED",
+	"floorRoughness": 0.43000000715255737,
+	"floorMetallic": 0.9100000262260437,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0.95999997854232788,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.72699999809265137,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 1,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

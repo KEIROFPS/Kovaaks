@@ -1,0 +1,23 @@
+{
+	"themeName": "Uzay theme",
+	"wallMaterial": "WHITE WOOD BOARD",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.015208514407277107,
+		"y": 0.015208514407277107,
+		"z": 0.015208514407277107
+	},
+	"floorMaterial": "WHITE WOOD BOARD",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.015208514407277107,
+		"y": 0.015208514407277107,
+		"z": 0.015208514407277107
+	}
+}

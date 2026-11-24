@@ -1,0 +1,52 @@
+{
+	"themeName": "Funka",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.75,
+	"wallMetallic": 1,
+	"wallFullBright": 0.67000001668930054,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "BRICK CLAY BEVELED",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.64999997615814209,
+	"enemyColorMetallic": 0.30000001192092896,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 1,
+		"z": 0
+	},
+	"skyPresetId": 3,
+	"cloudCoverId": 3,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 127,
+		"g": 127,
+		"r": 127,
+		"a": 255
+	}
+}

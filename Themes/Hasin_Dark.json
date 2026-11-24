@@ -1,0 +1,52 @@
+{
+	"themeName": "Hasin Dark",
+	"wallMaterial": "BRICK DARK",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "BRICK DARK",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.68999999761581421,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.1778884083032608,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.1778884083032608,
+		"z": 0
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 5,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 60,
+		"g": 60,
+		"r": 60,
+		"a": 255
+	}
+}

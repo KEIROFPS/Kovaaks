@@ -1,0 +1,52 @@
+{
+	"themeName": "iri",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.75,
+	"wallMetallic": 0.75,
+	"wallFullBright": 0.51999998092651367,
+	"wallTint":
+	{
+		"x": 0.18782077729701996,
+		"y": 0.22322796285152435,
+		"z": 0.26225066184997559
+	},
+	"floorMaterial": "BRICK CLAY BEVELED",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.73791038990020752,
+		"y": 0.73791038990020752,
+		"z": 0.80695223808288574
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.5,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 1,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 5,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 191,
+		"g": 180,
+		"r": 241,
+		"a": 255
+	}
+}

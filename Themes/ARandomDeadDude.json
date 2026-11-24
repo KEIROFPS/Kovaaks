@@ -1,0 +1,88 @@
+{
+	"themeName": "ARandomDeadDude",
+	"wallMaterial": "WHITE WOOD BOARD",
+	"wallRoughness": 0.80000001192092896,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.0047769532538950443,
+		"y": 0.0047769532538950443,
+		"z": 0.0047769532538950443
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "CHECKERBOARD 8",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.0047769532538950443,
+		"y": 0.0047769532538950443,
+		"z": 0.0047769532538950443
+	},
+	"floorTextureScale": 1,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 0.5,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.55201137065887451,
+		"z": 0.15896083414554596
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 5.3942314896792853e+22,
+		"y": 7.3708299223485378e-43,
+		"z": 1.4012984643248171e-45
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 5.6051938572992683e-45,
+		"y": 1.2385057501975747e+23,
+		"z": 7.3708299223485378e-43
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.55201137065887451,
+		"z": 0.15896083414554596
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 0,
+		"y": 1.238504309045694e+23,
+		"z": 7.3708299223485378e-43
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": -3.6141372117270976e-09,
+		"y": 4.5903735094352358e-41,
+		"z": -4.8737121005615336e-09
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 0,
+	"teamGlowUpBody": 0,
+	"enemyGlowUpHead": 0,
+	"enemyGlowUpBody": 0,
+	"enemyGlowUpHeadOnHit": 0,
+	"enemyGlowUpBodyOnHit": 0,
+	"enemyGlowUpHeadOnLookAt": 0,
+	"enemyGlowUpBodyOnLookAt": 0,
+	"skyPresetId": 7,
+	"cloudCoverId": 4,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"themeName": "og static with green heads and bright sky",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.89999997615814209,
+	"wallMetallic": 0.89999997615814209,
+	"wallFullBright": 0.85000002384185791,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "PURE COLOR",
+	"floorRoughness": 0.80000001192092896,
+	"floorMetallic": 0.75,
+	"floorFullBright": 0.80000001192092896,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 0.069666996598243713,
+		"y": 0.37999999523162842,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 234,
+		"g": 217,
+		"r": 153,
+		"a": 255
+	}
+}

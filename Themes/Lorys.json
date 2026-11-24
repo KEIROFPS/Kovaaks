@@ -1,0 +1,52 @@
+{
+	"themeName": "Lorys",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.60000002384185791,
+	"wallMetallic": 1,
+	"wallFullBright": 0.34999999403953552,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "BRICK CLAY NEW",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0.89999997615814209,
+	"floorTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.64999997615814209,
+	"enemyColorMetallic": 0.30000001192092896,
+	"enemyColorFullBright": 0.10000000149011612,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 1,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 231,
+		"g": 191,
+		"r": 200,
+		"a": 255
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"themeName": "snowi_strawbNcreem_18-08-21",
+	"wallMaterial": "GRID 16",
+	"wallRoughness": 0.10000000149011612,
+	"wallMetallic": 0.5,
+	"wallFullBright": 0.6600000262260437,
+	"wallTint":
+	{
+		"x": 0.45078578591346741,
+		"y": 0.23839756846427917,
+		"z": 0.35153260827064514
+	},
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 0.76999998092651367,
+	"floorMetallic": 0.25,
+	"floorFullBright": 0.25,
+	"floorTint":
+	{
+		"x": 0.78353780508041382,
+		"y": 0.36130678653717041,
+		"z": 0.41788506507873535
+	},
+	"overrideEnemyHeadColor": false,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.10000000149011612,
+	"enemyColorMetallic": 0.5,
+	"enemyColorFullBright": 0.6600000262260437,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.41254261136054993,
+		"z": 0.7304607629776001
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 6,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 170,
+		"g": 153,
+		"r": 255,
+		"a": 255
+	}
+}

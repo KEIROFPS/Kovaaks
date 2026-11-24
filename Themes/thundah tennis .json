@@ -1,0 +1,110 @@
+{
+	"themeName": "thundah tennis ",
+	"wallMaterial": "BRICK MODERN",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 0.41838487982749939,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"wallTextureScale": 0.69210523366928101,
+	"floorMaterial": "GROUND GRASS",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorTextureScale": 0.69210523366928101,
+	"ceilingMaterial": "GROUND GRASS",
+	"ceilingRoughness": 1,
+	"ceilingMetallic": 1,
+	"ceilingFullBright": 1,
+	"ceilingTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"ceilingTextureScale": 0.69210523366928101,
+	"rampMaterial": "GROUND GRASS",
+	"rampRoughness": 1,
+	"rampMetallic": 1,
+	"rampFullBright": 1,
+	"rampTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"rampTextureScale": 0.69210523366928101,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.19947275519371033,
+	"enemyColorMetallic": 0.68853819370269775,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.72699999809265137,
+		"z": 0
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.72699999809265137,
+		"z": 0
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 1,
+	"teamGlowUpBody": 1,
+	"enemyGlowUpHead": 1,
+	"enemyGlowUpBody": 1,
+	"enemyGlowUpHeadOnHit": 1,
+	"enemyGlowUpBodyOnHit": 1,
+	"enemyGlowUpHeadOnLookAt": 1,
+	"enemyGlowUpBodyOnLookAt": 1,
+	"skyPresetId": 3,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

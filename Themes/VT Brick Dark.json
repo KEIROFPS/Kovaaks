@@ -1,0 +1,52 @@
+{
+	"themeName": "VT Brick Dark",
+	"wallMaterial": "BRICK DARK",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "BRICK DARK",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.64999997615814209,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.17173300683498383,
+		"y": 0,
+		"z": 0.36800000071525574
+	},
+	"skyPresetId": 1,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 231,
+		"g": 191,
+		"r": 200,
+		"a": 255
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"themeName": "Kosei Classic",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 1,
+	"wallMetallic": 0.72000002861022949,
+	"wallFullBright": 0.55000001192092896,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "BRICK CLAY BEVELED",
+	"floorRoughness": 0.69999998807907104,
+	"floorMetallic": 0,
+	"floorFullBright": 0.80000001192092896,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.10000000149011612,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

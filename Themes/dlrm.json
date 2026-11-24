@@ -1,0 +1,52 @@
+{
+	"themeName": "dlrm",
+	"wallMaterial": "GRID 8",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 0.8399999737739563,
+	"wallTint":
+	{
+		"x": 0.038204371929168701,
+		"y": 0.038204371929168701,
+		"z": 0.038204371929168701
+	},
+	"floorMaterial": "GRID 8",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 0.99000000953674316,
+	"floorTint":
+	{
+		"x": 0.038204371929168701,
+		"y": 0.038204371929168701,
+		"z": 0.038204371929168701
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.68999999761581421,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.55201202630996704,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.1778884083032608,
+		"z": 0
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 5,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 60,
+		"g": 60,
+		"r": 60,
+		"a": 255
+	}
+}

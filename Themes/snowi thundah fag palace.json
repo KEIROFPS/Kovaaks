@@ -1,0 +1,110 @@
+{
+	"themeName": "snowi thundah fag palace",
+	"wallMaterial": "MARBLE POLISHED",
+	"wallRoughness": 0.25,
+	"wallMetallic": 0,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.5088813304901123,
+		"y": 0.44520118832588196,
+		"z": 0.5088813304901123
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"floorTextureScale": 1,
+	"ceilingMaterial": "MARBLE POLISHED",
+	"ceilingRoughness": 1,
+	"ceilingMetallic": 0,
+	"ceilingFullBright": 1,
+	"ceilingTint":
+	{
+		"x": 0.64447969198226929,
+		"y": 0.51491767168045044,
+		"z": 0.57758045196533203
+	},
+	"ceilingTextureScale": 1,
+	"rampMaterial": "MARBLE POLISHED",
+	"rampRoughness": 0.25,
+	"rampMetallic": 0,
+	"rampFullBright": 1,
+	"rampTint":
+	{
+		"x": 0.5088813304901123,
+		"y": 0.44520118832588196,
+		"z": 0.5088813304901123
+	},
+	"rampTextureScale": 1,
+	"overrideEnemyHeadColor": false,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.44551846385002136,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.51491767168045044,
+		"z": 0.71569347381591797
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.57758045196533203,
+		"y": 0.57758045196533203,
+		"z": 0.57758045196533203
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 1,
+	"teamGlowUpBody": 1,
+	"enemyGlowUpHead": 1,
+	"enemyGlowUpBody": 1,
+	"enemyGlowUpHeadOnHit": 1,
+	"enemyGlowUpBodyOnHit": 1,
+	"enemyGlowUpHeadOnLookAt": 1,
+	"enemyGlowUpBodyOnLookAt": 1,
+	"skyPresetId": 6,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 183,
+		"g": 192,
+		"r": 255,
+		"a": 255
+	}
+}

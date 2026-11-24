@@ -1,0 +1,52 @@
+{
+	"themeName": "graybox",
+	"wallMaterial": "GRID 16",
+	"wallRoughness": 0.75,
+	"wallMetallic": 1,
+	"wallFullBright": 0.75,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "GRID 32",
+	"floorRoughness": 0.80000001192092896,
+	"floorMetallic": 0.75,
+	"floorFullBright": 0.80000001192092896,
+	"floorTint":
+	{
+		"x": 0.21223099529743195,
+		"y": 0.21223099529743195,
+		"z": 0.21223099529743195
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.30000001192092896,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 234,
+		"g": 217,
+		"r": 153,
+		"a": 255
+	}
+}

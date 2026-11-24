@@ -1,0 +1,52 @@
+{
+	"themeName": "Voltaic",
+	"wallMaterial": "DRYWALL",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "DRYWALL",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.62999999523162842,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.64999997615814209,
+	"enemyHeadColor":
+	{
+		"x": 0.017641954123973846,
+		"y": 0.72305512428283691,
+		"z": 0.68668532371520996
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.017641954123973846,
+		"y": 0.72305512428283691,
+		"z": 0.68668532371520996
+	},
+	"skyPresetId": 1,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 216,
+		"g": 221,
+		"r": 36,
+		"a": 255
+	}
+}

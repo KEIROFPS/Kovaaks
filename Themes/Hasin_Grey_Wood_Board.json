@@ -1,0 +1,52 @@
+{
+	"themeName": "Hasin Grey Wood Board",
+	"wallMaterial": "GREY WOOD BOARD",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "GREY WOOD BOARD",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0.50999999046325684,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.68000000715255737,
+	"enemyColorMetallic": 0.34000000357627869,
+	"enemyColorFullBright": 0.23999999463558197,
+	"enemyHeadColor":
+	{
+		"x": 0.069666996598243713,
+		"y": 0.37999999523162842,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.069666996598243713,
+		"y": 0.37999999523162842,
+		"z": 0
+	},
+	"skyPresetId": 7,
+	"cloudCoverId": 1,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 95,
+		"g": 90,
+		"r": 90,
+		"a": 255
+	}
+}

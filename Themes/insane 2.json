@@ -1,0 +1,52 @@
+{
+	"themeName": "insane 2",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.30000001192092896,
+	"wallMetallic": 0.44999998807907104,
+	"wallFullBright": 0.40000000596046448,
+	"wallTint":
+	{
+		"x": 0.23455058038234711,
+		"y": 0.23455058038234711,
+		"z": 0.23455058038234711
+	},
+	"floorMaterial": "PURE COLOR",
+	"floorRoughness": 0.12999999523162842,
+	"floorMetallic": 0,
+	"floorFullBright": 0.30000001192092896,
+	"floorTint":
+	{
+		"x": 0.27889427542686462,
+		"y": 0.27889427542686462,
+		"z": 0.27889427542686462
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 0.89999997615814209,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 4,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

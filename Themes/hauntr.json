@@ -1,0 +1,52 @@
+{
+	"themeName": "hauntr",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.75,
+	"wallMetallic": 0.75,
+	"wallFullBright": 0.38999998569488525,
+	"wallTint":
+	{
+		"x": 0.4019777774810791,
+		"y": 0.45641103386878967,
+		"z": 0.51491767168045044
+	},
+	"floorMaterial": "BRICK CLAY NEW",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.17100000381469727,
+		"z": 0.17100000381469727
+	},
+	"enemyBodyColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 5,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}

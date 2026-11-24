@@ -1,0 +1,88 @@
+{
+	"themeName": "Snowi - Rx",
+	"wallMaterial": "MARBLE POLISHED",
+	"wallRoughness": 0.40000000596046448,
+	"wallMetallic": 1,
+	"wallFullBright": 0.30000001192092896,
+	"wallTint":
+	{
+		"x": 0.26225066184997559,
+		"y": 0.26225066184997559,
+		"z": 0.26225066184997559
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 0.40000000596046448,
+	"floorMetallic": 1,
+	"floorFullBright": 0.30000001192092896,
+	"floorTint":
+	{
+		"x": 0.26225066184997559,
+		"y": 0.26225066184997559,
+		"z": 0.26225066184997559
+	},
+	"floorTextureScale": 1,
+	"overrideEnemyHeadColor": false,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0,
+	"enemyColorMetallic": 0.23000000417232513,
+	"enemyColorFullBright": 0.43000000715255737,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": -22103482253180928,
+		"y": 8.2956869088029171e-43,
+		"z": 1.4012984643248171e-45
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 5.6051938572992683e-45,
+		"y": -2.1578550505222133e-26,
+		"z": 8.2956869088029171e-43
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 0,
+		"y": -2.1578525853318845e-26,
+		"z": 8.2956869088029171e-43
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": -3.5454477772393943e-16,
+		"y": 4.5905136392816682e-41,
+		"z": -4.3624653179143505e-16
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 0,
+	"teamGlowUpBody": 0,
+	"enemyGlowUpHead": 0,
+	"enemyGlowUpBody": 0,
+	"enemyGlowUpHeadOnHit": 0,
+	"enemyGlowUpBodyOnHit": 0,
+	"enemyGlowUpHeadOnLookAt": 0,
+	"enemyGlowUpBodyOnLookAt": 0,
+	"skyPresetId": 6,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 120,
+		"g": 111,
+		"r": 126,
+		"a": 255
+	}
+}

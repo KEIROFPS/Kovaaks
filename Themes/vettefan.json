@@ -1,0 +1,88 @@
+{
+	"themeName": "vettefan",
+	"wallMaterial": "DRYWALL",
+	"wallRoughness": 0.5,
+	"wallMetallic": 1,
+	"wallFullBright": 0,
+	"wallTint":
+	{
+		"x": 0.1384316086769104,
+		"y": 0.1384316086769104,
+		"z": 0.1384316086769104
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "GREY WOOD BOARD",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.12477181851863861,
+		"y": 0.12477181851863861,
+		"z": 0.12477181851863861
+	},
+	"floorTextureScale": 1,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 1,
+	"enemyHeadColor":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 2.7122879404480405e+30,
+		"y": 7.062544260197078e-43,
+		"z": 0
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 0,
+		"y": 1920,
+		"z": 1080
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.069666996598243713,
+		"y": 0.37999999523162842,
+		"z": 0
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 0,
+		"z": 0
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": -3.397059060716856e-07,
+		"y": 4.5903735094352358e-41,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 0,
+	"teamGlowUpBody": 0,
+	"enemyGlowUpHead": 0,
+	"enemyGlowUpBody": 0,
+	"enemyGlowUpHeadOnHit": 0,
+	"enemyGlowUpBodyOnHit": 0,
+	"enemyGlowUpHeadOnLookAt": 0,
+	"enemyGlowUpBodyOnLookAt": 0,
+	"skyPresetId": 0,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 55,
+		"g": 55,
+		"r": 55,
+		"a": 255
+	}
+}

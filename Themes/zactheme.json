@@ -1,0 +1,52 @@
+{
+	"themeName": "zactheme",
+	"wallMaterial": "BRICK GREY",
+	"wallRoughness": 1,
+	"wallMetallic": 0,
+	"wallFullBright": 0.80000001192092896,
+	"wallTint":
+	{
+		"x": 0.67954248189926147,
+		"y": 0.7758222222328186,
+		"z": 1
+	},
+	"floorMaterial": "WOOD PLANK",
+	"floorRoughness": 1,
+	"floorMetallic": 0,
+	"floorFullBright": 0.30000001192092896,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 0.64447969198226929,
+		"z": 0.57758045196533203
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.5,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.5,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.88792312145233154,
+		"z": 0
+	},
+	"skyPresetId": 3,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 217,
+		"g": 164,
+		"r": 108,
+		"a": 255
+	}
+}

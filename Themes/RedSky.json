@@ -1,0 +1,52 @@
+{
+	"themeName": "RedSky",
+	"wallMaterial": "CONCRETE TILES",
+	"wallRoughness": 0.30000001192092896,
+	"wallMetallic": 0.44999998807907104,
+	"wallFullBright": 0.40000000596046448,
+	"wallTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"floorMaterial": "CONCRETE TILES",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0.49000000953674316,
+	"floorTint":
+	{
+		"x": 0.5,
+		"y": 0.5,
+		"z": 0.5
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 0.69999998807907104,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 4,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 67,
+		"g": 94,
+		"r": 148,
+		"a": 255
+	}
+}

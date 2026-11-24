@@ -1,0 +1,52 @@
+{
+	"themeName": "kinda nice visuals+",
+	"wallMaterial": "GRID 8",
+	"wallRoughness": 0.6600000262260437,
+	"wallMetallic": 1,
+	"wallFullBright": 0,
+	"wallTint":
+	{
+		"x": 0,
+		"y": 0.14499999582767487,
+		"z": 0.28999999165534973
+	},
+	"floorMaterial": "GRID 8",
+	"floorRoughness": 0.6600000262260437,
+	"floorMetallic": 1,
+	"floorFullBright": 0,
+	"floorTint":
+	{
+		"x": 0.026241222396492958,
+		"y": 0.10224173218011856,
+		"z": 0.11953842639923096
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.33000001311302185,
+	"enemyColorMetallic": 0.33000001311302185,
+	"enemyColorFullBright": 0.40000000596046448,
+	"enemyHeadColor":
+	{
+		"x": 0.90104198455810547,
+		"y": 0.012354999780654907,
+		"z": 0.012354999780654907
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.72699999809265137,
+		"z": 0
+	},
+	"skyPresetId": 3,
+	"cloudCoverId": 3,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 147,
+		"g": 106,
+		"r": 0,
+		"a": 255
+	}
+}

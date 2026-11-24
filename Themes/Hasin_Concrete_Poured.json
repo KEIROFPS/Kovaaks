@@ -1,0 +1,52 @@
+{
+	"themeName": "Hasin Concrete Poured",
+	"wallMaterial": "CONCRETE POURED",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "CONCRETE POURED",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 0,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 1,
+	"enemyColorFullBright": 0.14000000059604645,
+	"enemyHeadColor":
+	{
+		"x": 0.069666996598243713,
+		"y": 0.37999999523162842,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.069666996598243713,
+		"y": 0.37999999523162842,
+		"z": 0
+	},
+	"skyPresetId": 7,
+	"cloudCoverId": 1,
+	"solidSkyColor": true,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 188,
+		"g": 188,
+		"r": 188,
+		"a": 255
+	}
+}

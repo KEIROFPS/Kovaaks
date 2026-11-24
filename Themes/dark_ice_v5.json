@@ -1,0 +1,52 @@
+{
+	"themeName": "dark ice v5",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.5,
+	"wallMetallic": 0.5,
+	"wallFullBright": 0.20000000298023224,
+	"wallTint":
+	{
+		"x": 0.070360094308853149,
+		"y": 0.10224173218011856,
+		"z": 0.15592646598815918
+	},
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 0.43999999761581421,
+	"floorMetallic": 1,
+	"floorFullBright": 0.87999999523162842,
+	"floorTint":
+	{
+		"x": 0.070360094308853149,
+		"y": 0.10224173218011856,
+		"z": 0.15592646598815918
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.99000000953674316,
+	"enemyColorMetallic": 0.67000001668930054,
+	"enemyColorFullBright": 0.34999999403953552,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"skyPresetId": 0,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 127,
+		"g": 127,
+		"r": 127,
+		"a": 255
+	}
+}
