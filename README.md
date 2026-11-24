@@ -11,7 +11,6 @@ sounds/	Custom in-game sound effects
 crosshairs/	Custom crosshairs
 Palette.ini	Custom UI colour palette
 🖥️ Installation – Windows
-
 1. Palette.ini
 
 Place Palette.ini into:
@@ -28,7 +27,6 @@ Place the sounds and crosshairs folders into:
 
 text
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer
-
 
 3. Themes
 
@@ -59,14 +57,12 @@ Place both folders into:
 text
 ~/.local/share/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/
 
-
 2. Themes
 
 Place the Themes folder into:
 
 text
 ~/.local/share/Steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/Saved/SaveGames/
-
 
 3. Palette.ini
 
