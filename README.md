@@ -1,4 +1,4 @@
-# KovaaK's Customisation Collection 🎯
+# KovaaK's Customisation Collection
 
 Custom themes, sounds, crosshairs and UI colour palettes for KovaaK's FPS Aim Trainer.
 
