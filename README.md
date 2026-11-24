@@ -4,7 +4,7 @@ Custom themes, sounds, crosshairs and UI colour palettes for KovaaK's FPS Aim Tr
 
 ## What's Included
 
-- Themes – Custom UI themes
+- Themes – Custom themes
 - Sounds – Custom sound effects
 - Crosshairs – Custom crosshairs
 - Palette.ini – Custom UI colours
